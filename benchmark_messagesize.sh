@@ -1,4 +1,4 @@
-#!/bin/bash
+﻿#!/bin/bash
 for input in ${@:2}
 do
     echo "----"

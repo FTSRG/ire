@@ -1,4 +1,4 @@
-#!/bin/bash
+﻿#!/bin/bash
 for input in $@
 do
     echo "----"
