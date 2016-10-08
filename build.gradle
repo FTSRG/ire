@@ -65,5 +65,5 @@ bintray {
           released = new Date()
         }
     }
-    publications = ['mavenJava'] 
+    publications = ['mavenJava']
 }
