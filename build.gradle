@@ -55,7 +55,7 @@ bintray {
     pkg {
         repo = 'maven'
         name = 'ire'
-        userOrg = 'ftsrg'
+        userOrg = 'ftsrg-open'
         licenses = ['Apache-2.0']
         vcsUrl = 'https://github.com/FTSRG/ire.git'
         version {
