@@ -62,6 +62,8 @@ $ export BINTRAY_KEY=
 $ gradle bintrayUpload
 ```
 
+Go to the Bintray [Maven repository site](https://bintray.com/ftsrg-open/maven) and click **Publish**.
+
 ## License
 
 The project uses the Apache 2.0 license and is supported by the MTA-BME Lendület Research Group on Cyber-Physical Systems.
