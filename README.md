@@ -64,6 +64,10 @@ $ gradle bintrayUpload
 
 Go to the Bintray [Maven repository site](https://bintray.com/ftsrg/maven) and click **Publish**.
 
+## Use cases
+
+[ingraph](https://github.com/FTSRG/ingraph), an incremental graph query engine (based on the openCypher query language) uses ire as its computation engine.
+
 ## License
 
 The project uses the Apache 2.0 license and is supported by the MTA-BME Lendület Research Group on Cyber-Physical Systems.
