@@ -62,7 +62,7 @@ bintray {
     repo = 'maven'
     name = 'ire'
     userOrg = 'ftsrg'
-    licenses = ['Apache-2.0']
+    licenses = ['EPL-1.0']
     vcsUrl = 'https://github.com/FTSRG/ire.git'
     version {
       name = '0.2.0'
